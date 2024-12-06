@@ -1,5 +1,21 @@
-# snake game
-Em 1976, o jogo foi desenvolvido pela Gremlin Interactive e batizado de Blockade. Lançado para os fliperamas, o jogo era monocromático e o personagem era movido pelas setas do teclado fiz o uso de javascript para recria-lo.
+# SNACK GAME
+É um jogo de cobra simples e divertido desenvolvido usando HTML, CSS e JavaScript. O objetivo do jogo é controlar uma cobra que cresce à medida que come alimentos, evitando colidir com as paredes ou com o próprio corpo.
+
+# Funcionalidades
+Painel de Pontuação: Exibe a pontuação atual do jogador e a pontuação mais alta.
+
+Tabuleiro de Jogo: Área onde o jogo é jogado, com a cobra e os alimentos aparecendo.
+
+Controles: Permite controlar a direção da cobra usando setas no teclado ou cliques nas setas na tela.
+
+# Tecnologias Utilizadas
+HTML: Estrutura básica do jogo.
+
+CSS: Estilização do jogo para torná-lo visualmente atraente.
+
+JavaScript: Lógica do jogo, incluindo movimento da cobra e detecção de colisões.
+
+jQuery: Biblioteca JavaScript utilizada para manipulação DOM.
 
 https://thaleshenriq.github.io/snakegame/
 
